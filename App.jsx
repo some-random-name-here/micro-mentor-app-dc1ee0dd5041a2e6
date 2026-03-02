@@ -1,4 +1,4 @@
-importss "./styles.css";
+import "./styles.css";
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { HeroUIProvider } from "@heroui/react";
